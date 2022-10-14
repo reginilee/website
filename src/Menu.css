@@ -1,0 +1,11 @@
+.nav-menu {
+    min-height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.nav-menu td {
+    padding: 1rem;
+}
