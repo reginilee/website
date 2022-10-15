@@ -76,6 +76,7 @@
 .nav .menu-nav__item {
   transform: translateX(100vw);
   transition: all 0.5s ease-in-out;
+  padding: 1rem 1.5rem;
 }
 .nav .menu-nav__item.open {
   transform: translateX(0);
@@ -85,7 +86,7 @@
   font-family: "Cormorant Garamond", serif;
   font-weight: 600;
   font-size: 2rem;
-  line-height: 3rem;
+  line-height: 1rem;
 }
 .nav .menu-nav__item.active > a {
   color: #fff;
@@ -101,11 +102,9 @@
 .nav .menu-nav__link:hover {
   color: #000;
 }
-
 .menu-nav__item:nth-child(1) {
   transition-delay: 0.25s;
 }
-
 .menu-nav__item:nth-child(2) {
   transition-delay: 0.35s;
 }
@@ -138,6 +137,13 @@ header {
   .nav .menu-nav__item {
     display: inline;
     padding-right: 1.5rem;
+    transition: none;
+  }
+  .nav .menu-nav__item:hover {
+    background-color: #fff;
+    transition-delay: 0s;
+    width: fit-content;
+    padding: 1rem 1.5rem;
   }
   .nav .menu-nav__item.active > a {
     color: #000;
