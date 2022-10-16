@@ -1,11 +1,24 @@
 footer {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-content: center;
-    background-color: #000;
-    color: #fff;
+    margin: auto;
+    color: #000;
     line-height: 1.5rem;
     font-size: 0.7rem;
+    margin-bottom: 3rem;
+}
+.social-media {
+    margin: auto;
+}
+
+.social-media > a > i {
+    margin: 0.5rem;
+}
+
+.copyright {
+    margin: auto;
 }
 
 @media screen and (min-width: 768px) {

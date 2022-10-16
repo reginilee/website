@@ -1,0 +1,50 @@
+.about {
+  display: flex;
+  flex-direction: column;
+}
+
+.author__image {
+  width: unset;
+  margin: 3rem;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.author__image > img {
+  max-width: 90%;
+  max-height: 90%;
+}
+
+.author__bio {
+  width: unset;
+  margin: 3rem;
+}
+.author__bio > p {
+  font-size: 1rem;
+}
+
+@media screen and (min-width: 768px) {
+  .about {
+    margin-top: 5rem;
+    flex-direction: row;
+  }
+
+  .author__image {
+    width: 50%;
+    margin: 3rem;
+    padding: 4rem;
+  }
+
+  .author__bio {
+    width: 50%;
+    margin: 3rem;
+    padding: 3rem;
+    padding-left: 0;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .author__bio > p {
+    font-size: 1.2rem;
+  }
+}
