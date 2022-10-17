@@ -2,6 +2,7 @@ import React from "react";
 import BlogPost from "./BlogPost";
 import "./Blog.css";
 import { Post_01, Post_02, Post_03, Post_04, Post_05, Post_06 } from "./Blog_Data";
+import Footer from "./Footer";
 
 export default function Blog() {
   return (
@@ -18,6 +19,7 @@ export default function Blog() {
         <BlogPost {...Post_06} />
         </div>
     </section>
+    <Footer />
     </>
   );
 }
