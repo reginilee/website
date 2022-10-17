@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   font-family: "Noto Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
@@ -31,6 +35,12 @@ a:hover {
 
 a:active {
   color: #000;
+}
+
+.fp-watermark,
+.fp-warning,
+.fp-watermark a {
+  display: none;
 }
 
 @media screen and (max-width: 575px) {
