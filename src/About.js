@@ -1,11 +1,14 @@
 import React from "react";
 import "./About.css";
 
-export default function About() {
+function About() {
   return (
     <section className="about">
       <div className="author__image">
-        <img src={require("./image/Regini_Lee.jpg")}></img>
+        <img
+          src={require("./image/Regini_Lee.jpg")}
+          alt="Website owner Regini Lee wearing graduation gown from the National University of Singapore."
+        ></img>
       </div>
       <div className="author__bio">
         <p>
@@ -48,3 +51,5 @@ export default function About() {
     </section>
   );
 }
+
+export default About;

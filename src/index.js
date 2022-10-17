@@ -10,10 +10,10 @@ import Footer from "./Footer";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <Router>
+    <Router basename={`/${process.env.PUBLIC_URL}`}>
       <Menu />
       <Routes>
-        <Route path="/" element={<App />} />
+        <Route exact path='/' element={<App />} />
         <Route path="/about" element={<About />} />
       </Routes>
       <Footer />

@@ -13,7 +13,7 @@ export default function Project(props) {
         <h4>{props.subtitle}</h4>
         <p>{props.description}</p>
         <div className="project__btn">
-          <a href={props.external_link} target="_blank">{props.button_text}</a>
+          <a href={props.external_link} target="_blank" rel="noopener">{props.button_text}</a>
         </div>
       </div>
     </div>
