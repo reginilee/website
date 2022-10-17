@@ -1,16 +1,9 @@
 import React from "react";
-import Header from "./Header";
-import Project from "./Project";
-import {
-  Project_01,
-  Project_02,
-  Project_03,
-  Project_04,
-  Project_05,
-  Project_06,
-} from "./Project_Data";
+import Header from "./header/Header";
+import Project from "./project/Project";
+import { Project_01, Project_02, Project_03, Project_04, Project_05, Project_06 } from "./project/Project_Data";
 import ReactFullpage from "@fullpage/react-fullpage";
-import Footer from "./Footer";
+import Footer from "./footer/Footer";
 
 const App = () => (
   <ReactFullpage

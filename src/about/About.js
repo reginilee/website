@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import Footer from "./Footer";
+import Footer from "../footer/Footer";
 
 function About() {
   return (
@@ -8,7 +8,7 @@ function About() {
       <section className="about">
         <div className="author__image">
           <img
-            src={require("./image/Regini_Lee.jpg")}
+            src={require("../image/Regini_Lee.jpg")}
             alt="Website owner Regini Lee wearing graduation gown from the National University of Singapore."
           ></img>
         </div>
