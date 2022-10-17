@@ -29,10 +29,10 @@ function About() {
             website looks good on both your laptop and on your mobile phone).
             <br />
             <br />
-            As a designer, I have experience in designing UXUI (responsive web
-            design), designing graphics (event marketing materials, content
+            As a designer, I have experience in UXUI design (responsive web user
+            interface), graphic design (event marketing materials, content
             marketing materials, vector graphics, branding guideline), and
-            designing as well as building theatre sets.
+            theatre set design.
             <br />
             <br />
             Outside of development and design, I enjoy taking photos, walking in
@@ -42,13 +42,13 @@ function About() {
             <br />
             <br />I would like to improve my designing skills, particularly in
             UXUI. I enjoy building digital solutions that serve a meaningful
-            purpose, so if my creation can solve my client's problem, it's a
+            purpose, so if my creation can solve my client's problem, it is a
             win-win situation.
             <br />
             <br />
-            Fresh out of university, my journey as a developer and designer has
-            just started. I am excited about what lies ahead! Feel free to
-            connect with me; I am always open to meeting new people.
+            My journey as a developer and designer has just started. I am
+            excited about what lies ahead! Feel free to connect with me; I am
+            always open to meeting new people.
           </p>
         </div>
       </section>
