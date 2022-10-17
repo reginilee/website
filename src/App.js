@@ -16,6 +16,7 @@ import Footer from "./Footer";
 const App = () => (
   <ReactFullpage
     licenseKey={""}
+    responsiveWidth="800"
     render={({ state, fullpageApi }) => {
       return (
         <ReactFullpage.Wrapper>
