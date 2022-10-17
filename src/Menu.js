@@ -31,6 +31,9 @@ export default function Menu() {
                 <li className="menu-nav__item open">
                   <Link to="/about" className={`menu-nav__link ${location.pathname === "/about" ? " active" : ""}`} onClick={toggleMenu}>About</Link>
                 </li>
+                <li className="menu-nav__item open">
+                  <Link to="/blog" className={`menu-nav__link ${location.pathname === "/blog" ? " active" : ""}`} onClick={toggleMenu}>Blog</Link>
+                </li>
               </ul>
             </nav>
           </>
@@ -47,6 +50,9 @@ export default function Menu() {
                 </li>
                 <li className="menu-nav__item">
                   <Link to="/about">About</Link>
+                </li>
+                <li className="menu-nav__item">
+                  <Link to="/blog">Blog</Link>
                 </li>
               </ul>
             </nav>
