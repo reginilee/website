@@ -32,6 +32,8 @@
 
 .project__description > p {
   font-size: 1rem;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 300;
 }
 
 .project__btn {
@@ -40,6 +42,7 @@
   width: fit-content;
   padding: 0.5rem 1rem;
   margin-top: 3rem;
+  font-size: 1.2rem;
 }
 
 .project__btn:hover,
@@ -62,5 +65,9 @@
   .project__description {
     width: 40%;
     margin: 4rem;
+  }
+
+  .project__btn {
+    font-size: 1rem;
   }
 }

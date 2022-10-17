@@ -21,6 +21,8 @@
 }
 .author__bio > p {
   font-size: 1rem;
+  font-family: "Noto Sans", sans serif;
+  font-weight: 300;
 }
 
 @media screen and (min-width: 768px) {
