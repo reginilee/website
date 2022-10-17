@@ -144,6 +144,7 @@ header {
     height: 100%;
     background: transparent !important;
     text-align: right;
+    padding: 0;
   }
   .nav .menu-nav__item {
     display: inline;
