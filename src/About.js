@@ -32,7 +32,7 @@ function About() {
           designing as well as building theatre sets.
           <br />
           <br />
-          Outside of development and design, I enjoy photography, walking in the
+          Outside of development and design, I enjoy taking photos, walking in the
           park, playing the piano (although not very good at it), painting by
           numbers (a newfound hobby), cooking a healthy meal, building miniature
           dollhouses, and drinking latte.
