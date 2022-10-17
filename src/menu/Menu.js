@@ -49,10 +49,10 @@ export default function Menu() {
                   <Link to="/" onClick={window.scrollTo(0,0)}>Home</Link>
                 </li>
                 <li className="menu-nav__item">
-                  <Link to="/about">About</Link>
+                  <Link to="/about" onClick={window.scrollTo(0,0)}>About</Link>
                 </li>
                 <li className="menu-nav__item">
-                  <Link to="/blog">Blog</Link>
+                  <Link to="/blog" onClick={window.scrollTo(0,0)}>Blog</Link>
                 </li>
               </ul>
             </nav>
