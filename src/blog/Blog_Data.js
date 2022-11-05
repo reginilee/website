@@ -71,3 +71,30 @@ export const Post_09 = {
     "Started building the miniature dollhouse.",
   date: "31 October 2022",
 };
+
+export const Post_10 = {
+  img_src: require("../image/blog/Shakshuka_With_Toast_2.jpg"),
+  img_alt_text:
+    "Shakshuka with three pieces of toasts.",
+  caption:
+    "And thus began another week of various ways of eating bread, because I just bought another loaf.",
+  date: "3 November 2022",
+};
+
+export const Post_11 = {
+  img_src: require("../image/blog/Grilled_Chicken_Sandwich.jpg"),
+  img_alt_text:
+    "A cup of coffee, a deconstructed club sandwich with grilled chicken and hard-boiled egg, a salad with strabverry slices and lettuce topped with coconut flakes and honey.",
+  caption:
+    "Unconventional salad idea but my personal favourite: Strawberry slices, some greens, some topping like coconut flakes, drizzled with honey.",
+  date: "4 November 2022",
+};
+
+export const Post_12 = {
+  img_src: require("../image/blog/Toasts.jpg"),
+  img_alt_text:
+    "A toast with banana slices topped with chocolate granola clusters, a toast with yogurt spread topped with strawberry slices and coconut flakes drizzled with honey, a toast with lettuce and scrambled eggs sprinkled with black pepper, and a cup of coffee.",
+  caption:
+    "Healthy snack idea: Yogurt spread on toast, topped with strawberry and coconut flakes, drizzled with honey.",
+  date: "5 November 2022",
+};
