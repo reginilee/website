@@ -32,7 +32,8 @@ export default function Menu() {
                   <Link to="/about" className={`menu-nav__link ${location.pathname === "/about" ? " active" : ""}`} onClick={toggleMenu}>About</Link>
                 </li>
                 <li className="menu-nav__item open">
-                  <Link to="/blog" className={`menu-nav__link ${location.pathname === "/blog" ? " active" : ""}`} onClick={toggleMenu}>Blog</Link>
+                  {/* <Link to="/blog" className={`menu-nav__link ${location.pathname === "/blog" ? " active" : ""}`} onClick={toggleMenu}>Blog</Link> */}
+                  <a href="https://www.caloriecounts.net/" className="menu-nav__link" target="_blank">Blog <i class="fa-solid fa-arrow-up-right-from-square" /></a>
                 </li>
               </ul>
             </nav>
@@ -51,8 +52,9 @@ export default function Menu() {
                 <li className="menu-nav__item">
                   <Link to="/about" onClick={window.scrollTo(0,0)}>About</Link>
                 </li>
-                <li className="menu-nav__item">
-                  <Link to="/blog" onClick={window.scrollTo(0,0)}>Blog</Link>
+                <li className="menu-nav__item web">
+                  {/* <Link to="/blog" onClick={window.scrollTo(0,0)}>Blog</Link> */}
+                  <a href="https://www.caloriecounts.net/" target="_blank">Blog <i class="fa-solid fa-arrow-up-right-from-square" /></a>
                 </li>
               </ul>
             </nav>

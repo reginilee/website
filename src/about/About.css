@@ -24,6 +24,10 @@
   font-family: "Noto Sans", sans serif;
   font-weight: 300;
 }
+.author__bio a i {
+  font-size: 0.5rem;
+  vertical-align: text-top;
+}
 
 @media screen and (min-width: 768px) {
   .about {

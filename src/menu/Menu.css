@@ -119,11 +119,17 @@
 .menu-nav__item:nth-child(3) {
   transition-delay: 0.45s;
 }
-
 header {
   position: fixed;
   z-index: 2;
   width: 100%;
+}
+.menu-nav__item a i {
+  font-size: 1rem;
+  vertical-align: text-top;
+}
+.menu-nav__item.web a i {
+  font-size: 0.5rem;
 }
 
 @media screen and (min-width: 768px) {

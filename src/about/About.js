@@ -25,20 +25,20 @@ function About() {
             As a developer, I have experience in object-oriented programming
             (Java, C#), frontend development (ReactJS, Material UI, Bootstrap,
             Ant Design, jQuery, ASP.NET), backend development (SQL, Spring,
-            SharePoint), and responsive web development (i.e, ensuring the
-            website looks good on both your laptop and on your mobile phone).
+            SharePoint), and responsive web development.
             <br />
             <br />
-            As a designer, I have experience in UXUI design (responsive web user
-            interface), graphic design (event marketing materials, content
-            marketing materials, vector graphics, branding guideline), and
-            theatre set design.
+            As a designer, I have experience in UXUI design, graphic design
+            (event marketing materials, content marketing materials, vector
+            graphics, branding guideline), and theatre set design.
             <br />
             <br />
             Outside of development and design, I enjoy taking photos, walking in
-            the park, playing the piano (although not very good at it), painting
-            by numbers (a newfound hobby), cooking a healthy meal, building
-            miniature dollhouses, and drinking latte.
+            the park, playing the piano and ukulele, painting by numbers (a
+            newfound hobby), cooking healthy meals, building miniature
+            dollhouses, and drinking coffee. Recently, I just created a food
+            blog at <b><a href="https://www.caloriecounts.net/" target="_blank">
+            caloriecounts.net <i class="fa-solid fa-arrow-up-right-from-square" /></a></b> as well.
             <br />
             <br />I would like to improve my designing skills, particularly in
             UXUI. I enjoy building digital solutions that serve a meaningful
