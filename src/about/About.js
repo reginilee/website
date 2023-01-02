@@ -17,38 +17,40 @@ function About() {
             Hello there! I am Regini.
             <br />
             <br />I am from Malaysia. I pursued my Bachelor of Computing
-            (Information Systems) at the National University of Singapore and
-            have worked at UOB Singapore as a software developer since June
-            2022.
+            (Information Systems) at the National University of Singapore. I am
+            currently working at UOB Singapore as a software developer.
             <br />
             <br />
             As a developer, I have experience in object-oriented programming
             (Java, C#), frontend development (ReactJS, Material UI, Bootstrap,
-            Ant Design, jQuery, ASP.NET), backend development (SQL, Spring,
-            SharePoint), and responsive web development.
+            Ant Design, jQuery, ASP.NET), and backend development (SQL, Spring,
+            MariaDB, SharePoint Server).
             <br />
             <br />
-            As a designer, I have experience in UXUI design, graphic design
+            As a designer, I have experience in UIUX design, graphic design
             (event marketing materials, content marketing materials, vector
             graphics, branding guideline), and theatre set design.
             <br />
             <br />
-            Outside of development and design, I enjoy taking photos, walking in
-            the park, playing the piano and ukulele, painting by numbers (a
-            newfound hobby), cooking healthy meals, building miniature
-            dollhouses, and drinking coffee. Recently, I just created a food
-            blog at <b><a href="https://www.caloriecounts.net/" target="_blank">
-            caloriecounts.net <i class="fa-solid fa-arrow-up-right-from-square" /></a></b> as well.
+            Outside of development and design, I enjoy taking photos, playing
+            the piano and ukulele, cooking healthy meals, and drinking coffee.
+            Recently, I just created a food blog at
+            <b>
+              <a href="https://www.caloriecounts.net/" target="_blank">
+                caloriecounts.net{" "}
+                <i class="fa-solid fa-arrow-up-right-from-square" />
+              </a>
+            </b>
+            as well.
             <br />
-            <br />I would like to improve my designing skills, particularly in
-            UXUI. I enjoy building digital solutions that serve a meaningful
-            purpose, so if my creation can solve my client's problem, it is a
-            win-win situation.
+            <br />I would like to improve my programming and designing skills. I
+            enjoy building digital solutions that serve a meaningful purpose, so
+            if my creation can solve my client's problem, it is a win-win
+            situation.
             <br />
             <br />
             My journey as a developer and designer has just started. I am
-            excited about what lies ahead! Feel free to connect with me; I am
-            always open to meeting new people.
+            excited about what lies ahead! Feel free to connect with me.
           </p>
         </div>
       </section>
