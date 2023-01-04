@@ -33,14 +33,16 @@ function About() {
             <br />
             <br />
             Outside of development and design, I enjoy taking photos, playing
-            the piano and ukulele, cooking healthy meals, and drinking coffee.
-            Recently, I just created a food blog at
+            the piano and ukulele, and cooking healthy meals.
+            Recently, I just started a food blog at
+            {" "}
             <b>
               <a href="https://www.caloriecounts.net/" target="_blank">
                 caloriecounts.net{" "}
                 <i class="fa-solid fa-arrow-up-right-from-square" />
               </a>
             </b>
+            {" "}
             as well.
             <br />
             <br />I would like to improve my programming and designing skills. I
