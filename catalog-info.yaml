@@ -1,10 +1,15 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: website
+  name: portfolio
+  description: |
+    Portfolio website.
+  links:
+    - title: Website
+      url: http://backstage.io
   annotations:
     github.com/project-slug: reginilee/website
 spec:
-  type: other
-  lifecycle: unknown
+  type: website
+  lifecycle: production
   owner: my-group
