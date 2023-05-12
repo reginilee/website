@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: website
+  annotations:
+    github.com/project-slug: reginilee/website
+spec:
+  type: other
+  lifecycle: unknown
+  owner: my-group
