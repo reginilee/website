@@ -1,4 +1,4 @@
-apiVersion: backstage.io/v1alpha1
+apiVersion: regini-lee.vercel.app/v1alpha1
 kind: Component
 metadata:
   name: portfolio
@@ -6,7 +6,7 @@ metadata:
     Portfolio website.
   links:
     - title: Website
-      url: http://backstage.io
+      url: https://regini-lee.vercel.app/
   annotations:
     github.com/project-slug: reginilee/website
 spec:
